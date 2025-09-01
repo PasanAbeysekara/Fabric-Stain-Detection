@@ -85,10 +85,6 @@ graph LR
 
 **Learn more about YOLO**: [Official YOLO Documentation](https://pjreddie.com/darknet/yolo/)
 
-<div align="center">
-  <img height="200" src="https://pjreddie.com/media/image/sayit.jpg" alt="YOLO Architecture" />
-</div>
-
 ---
 
 ## 🚀 Getting Started
